@@ -648,7 +648,7 @@ function DrawingLib.createFrame()
 end
 
 task.spawn(function()
-	print("RRayrays Executor Injected! / https://discord.gg/adQn5hC9ZC JOIN FOR BEST EXECUTORS !")
+	print("Rayrays Executor Injected! / https://discord.gg/adQn5hC9ZC JOIN FOR BEST EXECUTORS !")
 	local _game = game:GetService("CoreGui").Parent
 local HttpService = _game:FindService("HttpService")
 
